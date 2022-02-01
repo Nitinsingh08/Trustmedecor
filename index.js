@@ -120,8 +120,8 @@ let products = [{
         line1: "Happy birthday foil balloon in golden.",
         line2: "80 Balloons (black and golden).",
         line3: "Please arrange a stool or ladder for the Decorator.",
-        line4: "We Use cello tape to attach Balloons to the ceiling.",
-        line5: "Our Decorators follow covid guidelines issued by State/Central government.",
+        line4: "We Use cello tape/bit to attach Balloons to the ceiling.",
+        line5: "",
         price: 1299,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_ImkhxwRrKslM6h" async> </script> </form>`,
     },
@@ -131,11 +131,11 @@ let products = [{
         img1: "Resources/2/1.jpg",
         img2: "Resources/2/2.jpg",
         img3: "Resources/2/3.jpg",
-        line1: "120 Balloons",
-        line2: "Light Blue ,dark Blue and white balloons",
-        line3: "Happy Birthday foil balloon in dotted blue",
-        line4: "4 Blue Heart Shape foil balloon",
-        line5: "Please arrange a stool or ladder for the Decorator.",
+        line1: "120 Balloons (Light blue,dark blue and white balloons)",
+        line2: "Happy Birthday foil balloon in dotted blue",
+        line3: "4 Blue Heart Shape foil balloon",
+        line4: "Please arrange a stool or ladder for the Decorator.",
+        line5: "Our Decorators follow covid guidelines issued by State/Central government.",
         price: 1499,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEh0wXIMaxLCP" async> </script> </form>`,
     },
@@ -163,7 +163,7 @@ let products = [{
         line2: "1 Rainbow Foil balloon",
         line3: "8 Balloons [Pink & White]",
         line4: "1 Balloon stand",
-        line5: "We Use cello tape to attach Balloons to the ceiling.",
+        line5: "We Use cello tape/bit to attach Balloons to the ceiling.",
         price: 699,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEja7KxKYKKza" async> </script> </form>`,
     },
@@ -187,11 +187,11 @@ let products = [{
         img1: "Resources/6/1.jpg",
         img2: "Resources/6/2.jpg",
         img3: "Resources/6/3.jpg",
-        line1: "60 Balloons",
-        line2: "Pink and Silver balloons",
-        line3: "1 Happy birthday Foil balloon",
-        line4: "Please arrange a stool or ladder for the Decorator.",
-        line5: "We Use cello tape to attach Balloons to the ceiling.",
+        line1: "60 Balloons (Pink and Silver balloons)",
+        line2: "1 Happy birthday Foil balloon",
+        line3: "Please arrange a stool or ladder for the Decorator.",
+        line4: "We Use cello tape/bit to attach Balloons to the ceiling.",
+        line5: "Our Decorators follow covid guidelines issued by State/Central government.",
         price: 1399,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InElCDTPvs75SF" async> </script> </form>`,
     },
@@ -201,10 +201,10 @@ let products = [{
         img1: "Resources/7/1.jpg",
         img2: "Resources/7/2.jpg",
         img3: "Resources/7/1.jpg",
-        line1: "150 Red and white balloons ",
+        line1: "150 Red and white balloons",
         line2: "24 Printed photos",
         line3: "Please arrange a stool or ladder for the Decorator.",
-        line4: "We Use cello tape to attach Balloons to the ceiling.",
+        line4: "We Use cello tape/bit to attach Balloons to the ceiling.",
         line5: "Our Decorators follow covid guidelines issued by State/Central government.",
         price: 1599,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEmVmniiR1ult" async> </script> </form>`,
@@ -218,8 +218,8 @@ let products = [{
         line1: "Happy Birthday Foil Balloon in silver.",
         line2: "2 Silver star shape foil balloon,2 Golden Star shape foil balloon",
         line3: "50 balloons (Black and golden color),",
-        line4: "1 Fairy light,1 Black Happy birthday paper bunting ",
-        line5: "500 gram Rose Patels and 50 candles",
+        line4: "1 Fairy light",
+        line5: "1 Black Happy birthday paper bunting ,500 gram Rose Patels and 50 candles",
         price: 1799,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEnCuFY4nYSRn" async> </script> </form>`,
     },
@@ -232,7 +232,7 @@ let products = [{
         line1: "200 balloons on ceiling with ribbon",
         line2: "Color of your choice",
         line3: "Please arrange a stool or ladder for the Decorator.",
-        line4: "We Use cello tape to attach Balloons to the ceiling.",
+        line4: "We Use cello tape/bit to attach Balloons to the ceiling.",
         line5: "Our Decorators follow covid guidelines issued by State/Central government.",
         price: 1999,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEoYK2vucxhSH" async> </script> </form>`,
@@ -246,7 +246,7 @@ let products = [{
         line1: "10 Paper lantern (white)",
         line2: "5 Fairy light",
         line3: "Please arrange a stool or ladder for the Decorator.",
-        line4: "We Use cello tape to attach Balloons to the ceiling.",
+        line4: "We Use cello tape/bit to attach Balloons to the ceiling.",
         line5: "Our Decorators follow covid guidelines issued by State/Central government.",
         price: 1999,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEpZpZCFcTpbr" async> </script> </form>`,
@@ -275,7 +275,7 @@ let products = [{
         line2: "2 Blue Confetti Balloon",
         line3: "10 balloon [light blue & dark blue]",
         line4: "1 Balloon stand ",
-        line5: "We Use cello tape to attach Balloons to the ceiling.",
+        line5: "We Use cello tape/bit to attach Balloons to the ceiling.",
         price: 799,
         paybtn: `<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_InEsCA88w3bcCl" async> </script> </form>`,
     },
@@ -295,64 +295,8 @@ let products = [{
     },
 ];
 
-
-
-// summary page
-
-// Add smooth animations ,fonts ,colors ,animation on cards in the end
-
-// if (requestedTitle === _.lowerCase(products[requestedTitle].id)) {
-//     res.render("service", {
-//         name: products[requestedTitle].title,
-//         price: products[requestedTitle].price,
-//         img1: products[requestedTitle].img1,
-//         img2: products[requestedTitle].img2,
-//         img3: products[requestedTitle].img3,
-//     });
-// } else {
-//     console.log("There is an ERROR!");
-// }
-
-// products.map((product) => {
-//     if (requestedTitle === product.name) {
-//         res.render("service", { products: product });
-//     } else {
-//         console.log("error");
-//     }
-
-// products.map((product) => {
-//     if (requestedTitle === product.uniqueId) {
-//         res.render("service", { products: product });
-//     } else {
-//         console.log("error");
-//     }
-// });
-
-// if (requestedTitle === _.lowerCase(products[requestedTitle].uniqueId)) {
-//     res.render("service", {
-//         name: products[requestedTitle].title,
-//         price: products[requestedTitle].price,
-//         img1: products[requestedTitle].img1,
-//         img2: products[requestedTitle].img2,
-//         img3: products[requestedTitle].img3,
-//     });
-// } else {
-//     console.log("There is an ERROR!");
-// }
-
-// THINGS I HAVE TO DO IN ORDER TO COMPLETE THE WEBSITE
-// Numbers are priority level-
-// 4 Style the website properly using fonts ,colors ,animation-refer to IG* saved posts
-// 1 Create the login and signUp system
-// 3 Add payment integration
-// 5 Fix the error which comes while dynamic routing(kind of optional)
-// 5.2 Add the password ,ids,secret keys and all personal data in dotenv file
-// 6 Deploy the website
 // LISTENING ON PROT 3000
 app.listen(port, function(req, res) {
     console.log("The server is up and running on port 3000!");
 });
 
-//RAZORPAY INTEGRATIONion(req, res) {
-
-//RAZORPAY INTEGRATION
